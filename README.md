@@ -1,1 +1,1 @@
-The Laptop Voice Controller is a system that enables users to operate a laptop using voice commands instead of traditional input devices such as a keyboard or mouse. The project uses speech recognition and natural language processing to interpret spoken commands and execute system-level operations. This technology enhances accessibility, improves productivity, and provides a hands-free computing experience. The system is designed to recognize real-time voice input, process commands, and perform actions such as opening applications.
+
